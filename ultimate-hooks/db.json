@@ -1,0 +1,70 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "custom-hooks are awesome!"
+    },
+    {
+      "id": 2,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "note it",
+      "id": 3
+    },
+    {
+      "content": "note it",
+      "id": 4
+    },
+    {
+      "content": "note it",
+      "id": 5
+    },
+    {
+      "content": "note it",
+      "id": 6
+    },
+    {
+      "content": "note it",
+      "id": 7
+    },
+    {
+      "content": "note it",
+      "id": 8
+    },
+    {
+      "content": "note it",
+      "id": 9
+    },
+    {
+      "content": "note it",
+      "id": 10
+    },
+    {
+      "content": "New notes",
+      "id": 11
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "mluukkai",
+      "number": "040-5483923"
+    },
+    {
+      "id": 2,
+      "name": "hellas",
+      "number": "012-123123"
+    },
+    {
+      "name": "Harshit Balodi",
+      "number": "Greatguy",
+      "id": 3
+    },
+    {
+      "name": "Change Number",
+      "number": "939248439",
+      "id": 4
+    }
+  ]
+}
